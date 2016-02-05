@@ -69,7 +69,6 @@ up to date.
 
 To build your assets ready to go for production run `npm run build` and `npm start` to start the application.
 
-
 License
 -------
 
